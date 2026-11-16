@@ -15,7 +15,7 @@ You may copy, modify and redistribute this data under that license.
 
 `laoshi-strokes-v1.json` is a modified version of the source data:
 
-- Only the 238 characters taught in Laoshi are included.
+- Only the 478 characters taught in Laoshi (Days 1–90 and the starter packs) are included.
 - Only stroke medians (centre lines) are kept. Outlines are dropped.
 - Coordinates are converted from the 1024-unit font box (y up, baseline 900) to 0..1 with y down, and rounded to 3 decimals.
 - Each stroke has a short spoken description added for VoiceOver.
