@@ -11,11 +11,11 @@ Copyright 1999 Arphic Technology Co., Ltd.; copyright 2016 Shaunak Kishore.
 Licensed under the **Arphic Public License** (see `ARPHICPL.TXT`, included unaltered).
 You may copy, modify and redistribute this data under that license.
 
-## Changes (14 November 2026)
+## Changes (14 November 2026; updated 21 November 2026)
 
 `laoshi-strokes-v1.json` is a modified version of the source data:
 
-- Only the 478 characters taught in Laoshi (Days 1–90 and the starter packs) are included.
+- Only the 1,079 characters taught in Laoshi (Days 1–360 and the starter packs) are included.
 - Only stroke medians (centre lines) are kept. Outlines are dropped.
 - Coordinates are converted from the 1024-unit font box (y up, baseline 900) to 0..1 with y down, and rounded to 3 decimals.
 - Each stroke has a short spoken description added for VoiceOver.
